@@ -1,0 +1,14 @@
+/Users/raphaelgako/aRtoo/personal/Projects/Network/bin/Debug/net8.0/Network
+/Users/raphaelgako/aRtoo/personal/Projects/Network/bin/Debug/net8.0/Network.deps.json
+/Users/raphaelgako/aRtoo/personal/Projects/Network/bin/Debug/net8.0/Network.runtimeconfig.json
+/Users/raphaelgako/aRtoo/personal/Projects/Network/bin/Debug/net8.0/Network.dll
+/Users/raphaelgako/aRtoo/personal/Projects/Network/bin/Debug/net8.0/Network.pdb
+/Users/raphaelgako/aRtoo/personal/Projects/Network/obj/Debug/net8.0/Network.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaelgako/aRtoo/personal/Projects/Network/obj/Debug/net8.0/Network.AssemblyInfoInputs.cache
+/Users/raphaelgako/aRtoo/personal/Projects/Network/obj/Debug/net8.0/Network.AssemblyInfo.cs
+/Users/raphaelgako/aRtoo/personal/Projects/Network/obj/Debug/net8.0/Network.csproj.CoreCompileInputs.cache
+/Users/raphaelgako/aRtoo/personal/Projects/Network/obj/Debug/net8.0/Network.dll
+/Users/raphaelgako/aRtoo/personal/Projects/Network/obj/Debug/net8.0/refint/Network.dll
+/Users/raphaelgako/aRtoo/personal/Projects/Network/obj/Debug/net8.0/Network.pdb
+/Users/raphaelgako/aRtoo/personal/Projects/Network/obj/Debug/net8.0/Network.genruntimeconfig.cache
+/Users/raphaelgako/aRtoo/personal/Projects/Network/obj/Debug/net8.0/ref/Network.dll
